@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Matheus Terra</h1>
-<h3 align="center">Amante da análise de dados, encontro fascínio na arte de explorar informações para desvendar padrões e extrair insights valiosos</h3>
+<h3 align="center">Estou iniciando os meus estudos no mundo dos dados, explorando informações, descobrindo padrões e buscando insights interessantes. A jornada de transformar dados em entendimento está só começando, e estou empolgado para absorver mais conhecimento nessa área fascinante</h3>
 
 - Atualmente estou aprendendo **SQL Server, Power BI e Python**
 
